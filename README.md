@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Matheus Marques, estudante de programação!</h1>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/matheusmrqs4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmrqs4&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrqs4&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
