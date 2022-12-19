@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Matheus Marques, estudante de programação!</h1>
+<h1>Olá, eu sou o Matheus Marques!</h1>
 
 <div align="center">
   <a href="https://github.com/matheusmrqs4">
