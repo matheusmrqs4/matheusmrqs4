@@ -1,10 +1,4 @@
 <h1>Olá, me chamo Matheus Marques e sou Desenvolvedor PHP</h1>
-
-<div align="center">
-  <a href="https://github.com/matheusmrqs4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmrqs4&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrqs4&layout=compact&theme=dark"/>
-</div>
   
   
   ##
