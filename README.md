@@ -1,5 +1,13 @@
-<h1>Olá, me chamo Matheus Marques e sou Desenvolvedor PHP/Laravel</h1>
-  
+<h1>Olá, me chamo Matheus Marques!</h1>
+<h2>
+Desenvolvedor Web PHP-Laravel
+</h2>
+<h2>
+Também possuo conhecimentos em: HTML, CSS, Bootstrap, JavaScript, jQuery e MySQL.
+</h2>
+<h2>
+Tenho grande facilidade em aprender novos conceitos e também em me adaptar a novas mudanças, sempre pronto para enfrentar novos desafios.
+</h2>
   
   ##
   
