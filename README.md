@@ -12,6 +12,14 @@ novas mudanças, sempre pronto para enfrentar novos desafios.
 * **Cidade**: Bagé-RS, Brasil
 * **Stack**: PHP - Laravel - SQL - JavaScript - jQuery - Docker
   
+
+  <div>
+            <a href="https://github.com/matheusmrqs4">
+            <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrqs4&layout=compact&langs_count=7&theme=shades-of-purple"/>
+            <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmrqs4&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+              
+  </div>
+
   
   <div>
             <a href="https://twitter.com/m_mrqsphp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
