@@ -10,7 +10,7 @@ novas mudanças, sempre pronto para enfrentar novos desafios.
 * **Nome**: Matheus Marques
 * **Idade**: 25
 * **Cidade**: Bagé-RS, Brasil
-* **Stack**: PHP - Laravel - SQL - JavaScript - jQuery
+* **Stack**: PHP - Laravel - SQL - JavaScript - jQuery - Docker
   
   
   <div>
