@@ -11,6 +11,7 @@ novas mudanças, sempre pronto para enfrentar novos desafios. No momento estou c
 * **Idade**: 26
 * **Cidade**: Bagé-RS, Brasil
 * **Stack**: PHP - Laravel - SQL - JavaScript - jQuery - Docker - VueJs
+* **Learning**: C# - .NET
   
 
   <div>
