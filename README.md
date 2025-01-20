@@ -1,7 +1,7 @@
 ## Olá ✌️
 Sou um desenvolvedor apaixonado por tecnologia. Por isso estou sempre buscando
 aprender novos conceitos que ajude a me tornar um desenvolvedor cada vez melhor.
-Há pouco mais de 2 venho desenvolvendo diversos projetos para colocar em
+Há mais de 2 anos venho desenvolvendo diversos projetos para colocar em
 prática todo meu conhecimento. Tenho grande facilidade em me adaptar a
 novas mudanças, sempre pronto para enfrentar novos desafios. No momento estou cursando Engenharia de Software.
   
