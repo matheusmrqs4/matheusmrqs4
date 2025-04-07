@@ -1,16 +1,20 @@
 ## Olá ✌️
-Sou um desenvolvedor apaixonado por tecnologia. Por isso estou sempre buscando
-aprender novos conceitos que ajude a me tornar um desenvolvedor cada vez melhor.
-Há mais de 2 anos venho desenvolvendo diversos projetos para colocar em
-prática todo meu conhecimento. Tenho grande facilidade em me adaptar a
-novas mudanças, sempre pronto para enfrentar novos desafios. No momento estou cursando Engenharia de Software.
+Sou o Matheus, desenvolvedor em formação e completamente apaixonado por tecnologia.
+
+Há mais de dois anos venho me dedicando ao estudo e à prática do desenvolvimento de software, sempre buscando evoluir um pouco mais a cada dia. Nesse tempo, criei diversos projetos para aplicar o que venho aprendendo, e isso me deu ainda mais certeza de que é nessa área que quero construir minha carreira.
+
+Sou curioso, focado, e tenho facilidade para aprender coisas novas e me adaptar a diferentes situações. Atualmente curso Engenharia de Software na Estácio e estou em busca da minha primeira oportunidade profissional na área. Quero fazer parte de um time onde eu possa contribuir, aprender e crescer junto.
+
+Se quiser conhecer um pouco do que já desenvolvi, é só dar uma olhada no meu portfólio ou no meu GitHub. Estou pronto para o próximo desafio.
+
+Portfólio: <a href="https://matheusmarques.tech/">matheusmarques.tech<a/>
   
 ### Informações Pessoais
 
 * **Nome**: Matheus Marques
 * **Idade**: 26
 * **Cidade**: Bagé-RS, Brasil
-* **Stack**: PHP - Laravel - SQL - JavaScript - jQuery - Docker - VueJs
+* **Stack**: PHP - Laravel - SQL - JavaScript - Docker - VueJs
 * **Learning**: C# - .NET
   
 
