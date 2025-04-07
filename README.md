@@ -5,8 +5,6 @@ Há mais de dois anos venho me dedicando ao estudo e à prática do desenvolvime
 
 Sou curioso, focado, e tenho facilidade para aprender coisas novas e me adaptar a diferentes situações. Atualmente curso Engenharia de Software na Estácio e estou em busca da minha primeira oportunidade profissional na área. Quero fazer parte de um time onde eu possa contribuir, aprender e crescer junto.
 
-Se quiser conhecer um pouco do que já desenvolvi, é só dar uma olhada no meu portfólio ou no meu GitHub. Estou pronto para o próximo desafio.
-
 Portfólio: <a href="https://matheusmarques.tech/">matheusmarques.tech<a/>
   
 ### Informações Pessoais
