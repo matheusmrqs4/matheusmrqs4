@@ -3,7 +3,7 @@ Sou o Matheus, desenvolvedor em formação e completamente apaixonado por tecnol
 
 Há mais de dois anos venho me dedicando ao estudo e à prática do desenvolvimento de software, sempre buscando evoluir um pouco mais a cada dia. Nesse tempo, criei diversos projetos para aplicar o que venho aprendendo, e isso me deu ainda mais certeza de que é nessa área que quero construir minha carreira.
 
-Sou curioso, focado, e tenho facilidade para aprender coisas novas e me adaptar a diferentes situações. Atualmente curso Engenharia de Software na Estácio e estou em busca da minha primeira oportunidade profissional na área. Quero fazer parte de um time onde eu possa contribuir, aprender e crescer junto.
+Sou curioso, focado, e tenho facilidade para aprender coisas novas e me adaptar a diferentes situações. Atualmente curso Engenharia de Software na Estácio e estou em busca da minha primeira oportunidade profissional na área.
 
 Portfólio: <a href="https://matheusmarques.tech/">matheusmarques.tech<a/>
   
