@@ -13,7 +13,7 @@ Portfólio: <a href="https://matheusmarques.tech/">matheusmarques.tech<a/>
 * **Idade**: 26
 * **Cidade**: Bagé-RS, Brasil
 * **Stack**: PHP - Laravel - JavaScript - Node.js - TypeScript - React Native - Vue.js - Docker - SQL
-* **Learning**: C# - .NET
+* **Learning**: Data Science
   
 
   <div>
